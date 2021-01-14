@@ -1,2 +1,2 @@
 # number-guessing-game
-in this project i used basic concept of c
+in this project i am used basic concept of c
